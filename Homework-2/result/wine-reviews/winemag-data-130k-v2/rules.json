@@ -1,0 +1,28 @@
+{"X_set": [["province", "Washington"]], "Y_set": [["country", "US"]], "sup": 0.2613656544130705, "conf": 1.0, "lift": 3.826057414642432}
+{"X_set": [["province", "California"]], "Y_set": [["country", "US"]], "sup": 0.5764961818504706, "conf": 1.0, "lift": 1.7346168656141703}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["country", "US"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["country", "US"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["taster_name", "Virginie Boone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["taster_twitter_handle", "@vboone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Paul Gregutt"]], "Y_set": [["country", "US"]], "sup": 0.2667820990942994, "conf": 1.0, "lift": 3.7483774338492264}
+{"X_set": [["taster_twitter_handle", "@paulgwine "]], "Y_set": [["country", "US"]], "sup": 0.2667820990942994, "conf": 1.0, "lift": 3.7483774338492264}
+{"X_set": [["taster_twitter_handle", "@paulgwine "]], "Y_set": [["taster_name", "Paul Gregutt"]], "sup": 0.2667820990942994, "conf": 1.0, "lift": 3.7483774338492264}
+{"X_set": [["taster_name", "Paul Gregutt"]], "Y_set": [["taster_twitter_handle", "@paulgwine "]], "sup": 0.2667820990942994, "conf": 1.0, "lift": 3.7483774338492264}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["taster_name", "Virginie Boone"], ["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["province", "California"], ["taster_twitter_handle", "@vboone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["country", "US"], ["taster_name", "Virginie Boone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["country", "US"], ["taster_twitter_handle", "@vboone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["country", "US"], ["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["country", "US"], ["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Paul Gregutt"]], "Y_set": [["country", "US"], ["taster_twitter_handle", "@paulgwine "]], "sup": 0.2667820990942994, "conf": 1.0, "lift": 3.7483774338492264}
+{"X_set": [["taster_twitter_handle", "@paulgwine "]], "Y_set": [["country", "US"], ["taster_name", "Paul Gregutt"]], "sup": 0.2667820990942994, "conf": 1.0, "lift": 3.7483774338492264}
+{"X_set": [["taster_name", "Virginie Boone"], ["taster_twitter_handle", "@vboone"]], "Y_set": [["country", "US"], ["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["country", "US"], ["taster_twitter_handle", "@vboone"]], "Y_set": [["taster_name", "Virginie Boone"], ["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["country", "US"], ["taster_name", "Virginie Boone"]], "Y_set": [["province", "California"], ["taster_twitter_handle", "@vboone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["province", "California"], ["taster_twitter_handle", "@vboone"]], "Y_set": [["country", "US"], ["taster_name", "Virginie Boone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"], ["province", "California"]], "Y_set": [["country", "US"], ["taster_twitter_handle", "@vboone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_twitter_handle", "@vboone"]], "Y_set": [["country", "US"], ["taster_name", "Virginie Boone"], ["province", "California"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["taster_name", "Virginie Boone"]], "Y_set": [["country", "US"], ["province", "California"], ["taster_twitter_handle", "@vboone"]], "sup": 0.2862280234416622, "conf": 1.0, "lift": 3.493718008375989}
+{"X_set": [["country", "US"]], "Y_set": [["province", "California"]], "sup": 0.5764961818504706, "conf": 0.5764961818504706, "lift": 0.5764961818504706}

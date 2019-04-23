@@ -1,0 +1,2 @@
+{"X_set": [["province", "California"]], "Y_set": [["country", "US"]], "sup": 0.7273949324067264, "conf": 1.0, "lift": 1.3747689947348234}
+{"X_set": [["country", "US"]], "Y_set": [["province", "California"]], "sup": 0.7273949324067264, "conf": 0.7273949324067264, "lift": 0.7273949324067264}
